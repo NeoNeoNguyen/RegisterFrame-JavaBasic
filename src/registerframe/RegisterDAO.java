@@ -32,8 +32,7 @@ public class RegisterDAO {
             ps.setString(8, student.getBranch());
             ps.setInt(9, student.getSemester());
             st = ps.executeUpdate();
-            System.out.println("Inserted student " + st);
-            
+            System.out.println("Inserted student " + st);          
         }
         catch(SQLException e){
             e.printStackTrace();

@@ -127,7 +127,7 @@ public class RegisterFrame extends JFrame {
         registerButton.addActionListener(new addActionListener() {
             @Override
             public void actionPerformed(ActionEvent e) {
-                message.setText("Ok button is click here");
+                message.setText("Congratulation!");
 
                 System.out.println("Register Buttton Clicked");
                 String gender = null;

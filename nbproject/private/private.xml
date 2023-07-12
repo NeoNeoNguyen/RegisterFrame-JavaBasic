@@ -5,7 +5,9 @@
         <group>
             <file>file:/N:/Java/RegisterFrame/src/registerframe/Validation.java</file>
             <file>file:/N:/Java/RegisterFrame/src/registerframe/RegisterFrame.java</file>
+            <file>file:/N:/Java/RegisterFrame/src/registerframe/RegisterDAO.java</file>
             <file>file:/N:/Java/RegisterFrame/src/registerframe/Student.java</file>
+            <file>file:/N:/Java/RegisterFrame/src/registerframe/ConnectionFactory.java</file>
         </group>
     </open-files>
 </project-private>

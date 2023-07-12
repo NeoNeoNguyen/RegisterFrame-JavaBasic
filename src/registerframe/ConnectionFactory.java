@@ -8,10 +8,10 @@ public class ConnectionFactory {
 
     public static Connection getConnection() {
         Connection c = null;
-        
-final String url = "jdbc:mysql://localhost:3306/studentmanagement";
-final String user = "root";
-final String password = "";
+
+        final String url = "jdbc:mysql://localhost:3306/studentmanagenment";
+        final String user = "root";
+        final String password = "";
         try {
             c = DriverManager.getConnection(url, user, password);
 //            Class.forName("com.mysql.jdbc.Driver");
